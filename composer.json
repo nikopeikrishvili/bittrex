@@ -1,0 +1,26 @@
+{
+    "name": "nikopeikrishvili/bittrex",
+    "type": "library",
+    "description": "PHP Wrapper for Bittrex.com crypto exchange api ",
+    "keywords": ["Bittrex", "API"],
+    "homepage": "https://github.com/nikopeikrishvili/bittrex",
+    "license": "MIT",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "Niko Peikrishvili",
+            "email": "niko.peikrishvili@gmail.com",
+            "homepage": "https://github.com/nikopeikrishvili/",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "classmap": ["src/"]
+    },
+    "require-dev": {
+
+    }
+}
