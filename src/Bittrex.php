@@ -7,7 +7,7 @@
 
 namespace nikopeikrishvili\bittrex;
 
-class Client
+class Bittrex
 {
 	private $baseUrl;
 	private $apiVersion = 'v1.1';
