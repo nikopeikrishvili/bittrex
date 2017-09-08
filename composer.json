@@ -5,7 +5,7 @@
     "keywords": ["Bittrex", "API"],
     "homepage": "https://github.com/nikopeikrishvili/bittrex",
     "license": "MIT",
-    "version": "1.0.0",
+    "version": "1.0.0-stable",
     "authors": [
         {
             "name": "Niko Peikrishvili",
